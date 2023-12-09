@@ -14,7 +14,7 @@ body {
 }
 
 #display {
-    width: 100%;
+    width: auto;
     margin-bottom: 10px;
     padding: 10px;
     font-size: 1.5em;
@@ -22,7 +22,7 @@ body {
 
 .buttons {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     gap: 10px;
 }
 
